@@ -16,12 +16,11 @@
 ---
 
 ## 📋 Índice
-- [Sobre Mim](#sobre-mim)  
-- [🛠️ Habilidades](#habilidades)  
-- [🚀 Projetos](#projetos)  
-- [📫 Contato](#contato)  
-- [⚖️ Licença](#licença)  
-
+- [Sobre Mim](#sobre-mim)
+- [Habilidades](#habilidades)
+- [Projetos](#projetos)
+- [Contato](#contato)
+- [Licença](#licença)
 ---
 
 ## Sobre Mim
