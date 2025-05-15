@@ -4,9 +4,9 @@
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-⚡️-green)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-white)
+![OpenCV](https://img.shields.io/badge/opencv-white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-white)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 <!-- GitHub Stats -->
