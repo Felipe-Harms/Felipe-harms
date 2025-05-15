@@ -15,14 +15,6 @@
 
 ---
 
-## 📋 Índice
-- [Sobre Mim](#sobre-mim)
-- [Habilidades](#habilidades)
-- [Projetos](#projetos)
-- [Contato](#contato)
-- [Licença](#licença)
----
-
 ## Sobre Mim
 Olá! Eu sou **Felipe Dias**, bacharel em Ciência da Computação com uma curiosidade insaciável: estou sempre em busca de novos cursos, certificações e ferramentas para expandir meus horizontes. Apaixonado por inteligência artificial e machine learning, adoro transformar desafios em oportunidades de aprendizado prático. Se existe um jeito de evoluir, você pode ter certeza de que já estou inscrito!  
 
