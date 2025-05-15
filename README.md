@@ -1,10 +1,10 @@
 
 ## Olá, me chamo Felipe Dias  
-#### Cursando Ciência da Computação
+#### Graduado em Ciência da Computação
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Harms&show_icons=true&theme=gruvbo)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Harms&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harms)](https://github.com/Felipe-Harms/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harms&layout=compact&theme=dracula)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-dias-harms)
 
