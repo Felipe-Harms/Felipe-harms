@@ -4,7 +4,6 @@
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-⚡️-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![NodeJS](https://img.shields.io/badge/node.js-green)
 ![OpenCV](https://img.shields.io/badge/opencv-blue)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-gray)
