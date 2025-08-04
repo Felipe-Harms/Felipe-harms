@@ -33,7 +33,7 @@ Olá! Eu sou **Felipe Dias**, bacharel em Ciência da Computação com uma curio
 
 ## 🚀 Projetos
 
-### 🔸 EPI-Detection  
+### 🔸 Detecção de EPI com visão computacional (VCST)
 Detecção em tempo real de Equipamentos de Proteção Individual (capacetes, máscaras, coletes) em fluxos de vídeo.  
 - **Tecnologias:** Python · YOLOv5 · FastAPI · OpenCV
 - **Repositório:** https://github.com/Felipe-Harms/Seguranca-do-trabalho-com-ia
