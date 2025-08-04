@@ -45,6 +45,3 @@ Detecção em tempo real de Equipamentos de Proteção Individual (capacetes, m�
 - 🔗 LinkedIn: https://linkedin.com/in/felipe-dias-harms
 
 ---
-
-## ⚖️ Licença
-Este projeto está licenciado sob a [MIT License](./LICENSE).
