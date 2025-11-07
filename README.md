@@ -6,6 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-⚡️-green)
 ![NodeJS](https://img.shields.io/badge/node.js-green)
 ![OpenCV](https://img.shields.io/badge/opencv-blue)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-gray)
 
 <!-- GitHub Stats -->
