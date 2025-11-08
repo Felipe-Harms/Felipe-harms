@@ -9,10 +9,6 @@
 ![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-gray)
 
-<!-- GitHub Stats -->
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Harms&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Harms&layout=compact&theme=dracula)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-dias-harms)
 
 ---
