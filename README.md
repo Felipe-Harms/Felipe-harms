@@ -19,7 +19,7 @@ Olá! Eu sou **Felipe Dias**, bacharel em Ciência da Computação com uma curio
 ---
 
 ## 🛠️ Habilidades
-- **Linguagens & Frameworks:** Python · FastAPI · JavaScript  
+- **Linguagens & Frameworks:** Python · FastAPI · JavaScript  . PHP
 - **Ferramentas de CV/ML:** PyTorch · YOLOv5 · OpenCV · NumPy  
 - **DevOps & CI/CD:** Docker · GitHub Actions · Linux  
 - **Cloud & APIs:** AWS (S3, Lambda) · REST · WebSockets  
